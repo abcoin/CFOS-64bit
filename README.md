@@ -15,3 +15,6 @@ Step 3). Edit ABC.Service.exe.xml with right password:
     <add key="password" value="8PnwWUngNqJYq74VQaXV37vfQvfnQW7CxnVcFuGSNhvb"/>
 
 Step 4). run  "ABC.Service.exe"
+
+
+To Stop "ABC.Service.exe", start a new Prompt Window and type ""ABC.Service.exe stop"
