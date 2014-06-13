@@ -4,8 +4,9 @@ CFOS.WIN8
 Crypto Financial Operating System for Windows 8
 
 Please follow the steps below:
+Step 0). For first time Run "ABC.Service.exe" after download, you will be prompted with password.
 
-Step 1). Run "ABC.Service.exe -reindex" after download.
+Step 1). Run "ABC.Service.exe -reindex".
 
 Step 2). You will be notified with username and password with error message for the first time.
 
