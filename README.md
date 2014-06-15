@@ -1,4 +1,4 @@
-CFOS.WIN8
+CFOS for WIN8 64 bit Windows
 =========
 
 Crypto Financial Operating System for 64bit Windows 8, if you are using other windows OS, please find it under https://github.com/abcoin
