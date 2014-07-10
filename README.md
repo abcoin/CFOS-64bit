@@ -5,7 +5,7 @@ Crypto Financial Operating System for 64bit Windows 8, if you are using other wi
 
 Please follow the steps below:
 
-Step 1). For first time Run "ABC.Service.exe" after download, you will be prompted with password(similar to Bitcoin).
+Step 1). For first time Run "ABC.Service.exe" after download, you will be prompted with password(similar to Bitcoin), please create abcoin.conf properly.
 
 Step 2). Run "ABC.Service.exe -reindex", once it is finish, stop it and do Step 3).
 
