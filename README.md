@@ -18,7 +18,7 @@ Step 1). Run CMD. For the first time after download, put "  cfos.exe  " in the C
 Step 2). Run "  cfos.exe -reindex  " to download the blockchain, wait till it is finished
 
 Step 3). Open another CMD and you can put in commands with arguments.
-         "  ABC.Service.exe  [command-line options]   "
+         "  cfos.exe  [command-line options]   "
          
          Check the link below for more information about the Commandline Manual:
          http://wiki.abcoin.info/index.php/Command_Line_Manual
@@ -27,7 +27,7 @@ Step 3). Open another CMD and you can put in commands with arguments.
 
 To Stop "cfos.exe", start a new Prompt Window and put in " cfos.exe stop "
 
-
+=======================================================================================================
 
 To Install as a Windows Service:
 
