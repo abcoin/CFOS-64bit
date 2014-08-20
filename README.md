@@ -32,6 +32,7 @@ To Stop "cfos.exe", start a new Prompt Window and put in " cfos.exe stop "
 To Install as a Windows Service:
 
 1). download and put all files to c:\cfos\bin folder.
+
 2). run install.cmd (it will install CFOS as a windows service).
 
 to uninstall it, run uninstall.cmd.
