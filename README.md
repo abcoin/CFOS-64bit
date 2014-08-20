@@ -13,9 +13,9 @@ Here are the steps to run ABC.Service on Windows:
 Notice: Please run CMD before you do all the following steps !
 
 
-Step 1). Run CMD. For the first time after download, put "  ABC.Service.exe  " in the CMD, you will be prompted with password(similar to Bitcoin), please create abcoin.conf properly.
+Step 1). Run CMD. For the first time after download, put "  cfos.exe  " in the CMD, you will be prompted with password(similar to Bitcoin), please create abcoin.conf properly.
 
-Step 2). Run "  ABC.Service.exe -reindex  " to download the blockchain, wait till it is finished
+Step 2). Run "  cfos.exe -reindex  " to download the blockchain, wait till it is finished
 
 Step 3). Open another CMD and you can put in commands with arguments.
          "  ABC.Service.exe  [command-line options]   "
@@ -25,4 +25,13 @@ Step 3). Open another CMD and you can put in commands with arguments.
 
 
 
-To Stop "ABC.Service.exe", start a new Prompt Window and put in " ABC.Service.exe stop "
+To Stop "cfos.exe", start a new Prompt Window and put in " cfos.exe stop "
+
+
+
+To Install as a Windows Service:
+
+1). download and put all files to c:\cfos\bin folder.
+2). run install.cmd (it will install CFOS as a windows service).
+
+to uninstall it, run uninstall.cmd.
